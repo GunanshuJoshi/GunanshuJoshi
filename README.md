@@ -5,10 +5,11 @@
   
 </div>
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Animated Banner" autoplay loop/>
+    <img src="./assets/tech-guy.gif" width="500" height="300" alt="Animated Banner" autoplay loop/>
 </div>
 
 ## 💫 About Me
+
 - 🔭 I'm a **Software Development Engineer**
 - 🌱 I'm passionate about **DevOps, Blockchain, and Full-Stack Development**
 - 💡 I love exploring new technologies and implementing them in real-world projects
